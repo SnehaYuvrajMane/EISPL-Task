@@ -25,9 +25,9 @@ function Connect() {
           Why should you Choose Stackkaroo&apos;s Website Development Service?
         </h2>
         <div className="flex flex-wrap gap-32 justify-center mt-10 ">
-          {Data.map((ele) => {
+          {Data.map((ele,index) => {
             return (
-              <div className="border-2 w-72 flex flex-col justify-center items-center h-64 rounded-md border-red-900 border-x-indigo-500">
+              <div key={index} className="border-2 w-72 flex flex-col justify-center items-center h-64 rounded-md border-red-900 border-x-indigo-500">
                 <Image src={ele.image} width={100} height={100} />
                 <p className="mt-3 text-xl">{ele.desc}</p>
               </div>
