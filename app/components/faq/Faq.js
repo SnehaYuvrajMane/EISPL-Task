@@ -12,7 +12,7 @@ function Faq() {
           title="What are Stackkaroo's Project Execution Models? "
           className=" w-96 border p-5 rounded-2xl "
         >
-          Stackkaroo's Project Execution Models are a group of rules and methods
+          Stackkaroo&apos;s Project Execution Models are a group of rules and methods
           made to simplify web development projects. These models give a clear
           way to plan, carry out and finish projects. This makes sure they are
           successful and done well.
@@ -42,7 +42,7 @@ function Faq() {
           title="How do Stackkaroo's Project Execution Models help with my web development projects?"
           className=" w-96 rounded-e-2xl  p-5 border-cyan-500"
         >
-          Stackkaroo's Project Execution Models help manage projects in a
+          Stackkaroo&apos;s Project Execution Models help manage projects in a
           step-by-step way. This makes it easier to organize, talk to others
           well, and be more productive. Use these examples to make sure your
           website projects finish on time, within the money limits and make the
